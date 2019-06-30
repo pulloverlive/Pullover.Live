@@ -3,6 +3,8 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pulloverlive/pulloverlive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+https://github.com/pages-themes/hacker
+https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
